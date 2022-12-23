@@ -61,3 +61,5 @@ Estagiário do setor fiscal, emissão de notas fiscais, recebimento fiscal, apur
 <u>11/2009 a 02/2011</u> – **NR Assessoria Empresarial - Auxiliar**
 
 Auxiliar contábil, conciliações bancárias e serviços de office-boy
+
+[VOLTAR AOS DADOS PESSOAIS](https://github.com/8danielmonteiro/dados-e-experiencias-profissionais/blob/ab1666fe6e3b7b898cedd1020706ca4ac07d6140/Curriculo/Resumo%20Profissional.md)
